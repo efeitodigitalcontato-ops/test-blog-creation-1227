@@ -1,0 +1,31 @@
+{
+  "theme": "test blog",
+  "categories": [
+    {
+      "value": "test-blog",
+      "label": "Test blog"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Test blog"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-test-blog-1.jpg",
+      "label": "Test blog Premium"
+    },
+    {
+      "value": "/recommended-test-blog-2.jpg",
+      "label": "Test blog Custo-Benefício"
+    },
+    {
+      "value": "/recommended-test-blog-3.jpg",
+      "label": "Melhores Test blog"
+    }
+  ]
+}
