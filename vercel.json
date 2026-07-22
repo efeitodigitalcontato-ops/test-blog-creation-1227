@@ -1,5 +1,14 @@
 {
-  "framework": "astro",
   "buildCommand": "astro build",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "routes": [
+    {
+      "src": "/api/auth",
+      "dest": "/api/auth.js"
+    },
+    {
+      "src": "/api/callback",
+      "dest": "/api/callback.js"
+    }
+  ]
 }
