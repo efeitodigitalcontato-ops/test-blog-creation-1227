@@ -4,7 +4,7 @@ backend:
   branch: main
   site_domain: test-blog-creation-1227.vercel.app
   # Usamos a API própria e segura que criamos para o seu domínio na Vercel
-  base_url: https://inteligenciajovem.com.br
+  base_url: https://test-blog-creation-1227.vercel.app
   auth_endpoint: api/auth
 
 # Permite rodar o CMS localmente com 'npx decap-cms-proxy-server'
